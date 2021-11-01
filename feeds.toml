@@ -1,0 +1,6 @@
+[yangshengji]
+title = "妖神记"
+url = "https://www.baozimh.com/comic/yaoshenji-taxuedongman"
+entrySelector = ".supporting-text.mt-2"
+titleSelector = "a"
+linkSelector = "a"
