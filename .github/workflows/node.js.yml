@@ -6,7 +6,7 @@ name: Node.js CI
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '36 5,14 * * *'
+    - cron:  '39 14 * * *'
 
 jobs:
   build:
